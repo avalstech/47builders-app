@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 47Builders",
+  "description": "A secure platform for the African diaspora to hire verified builders in Nigeria and manage construction projects with transparency and milestone-based trust.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
